@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jewels | Premium Artificial Jewelry</title>
+    <style>
+        body { font-family: 'Georgia', serif; margin: 0; background-color: #fdfaf6; color: #333; line-height: 1.6; }
+        header { padding: 40px; background-color: #fff; text-align: center; border-bottom: 1px solid #eee; }
+        .logo { font-size: 2.5rem; letter-spacing: 4px; color: #b08d57; text-transform: uppercase; margin: 0; }
+        
+        /* Gallery Styling */
+        .container { max-width: 1100px; margin: 40px auto; padding: 0 20px; }
+        .gallery-title { text-align: center; font-size: 2rem; margin-bottom: 40px; color: #444; }
+        
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; }
+        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); transition: 0.3s; text-align: center; }
+        .card:hover { transform: translateY(-5px); }
+        
+        .card img { width: 100%; height: 300px; object-fit: cover; border-radius: 5px; background: #eee; }
+        .card h3 { margin: 15px 0 5px; font-size: 1.2rem; }
+        .card p { color: #888; font-size: 0.9rem; margin-bottom: 15px; }
+        .price { font-weight: bold; color: #b08d57; font-size: 1.1rem; display: block; margin-bottom: 15px; }
+        
+        .whatsapp-btn { background: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.8rem; display: inline-block; }
+        
+        .footer { text-align: center; padding: 40px; color: #aaa; font-size: 0.8rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">Jewels</div>
+        <p>Elegance Redefined, Affordability Perfected</p>
+    </header>
+
+    <div class="container">
+        <h2 class="gallery-title">Our Signature Collection</h2>
+        
+        <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/300x400?text=Necklace+Set" alt="Royal Kundan Set">
+                <h3>Royal Kundan Set</h3>
+                <p>Intricate gold-plated necklace with matching earrings.</p>
+                <span class="price">$49.00</span>
+                <a href="https://wa.me/1234567890?text=I'm interested in the Royal Kundan Set" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+            </div>
+
+            <div class="card">
+                <img src="https://via.placeholder.com/300x400?text=Zircon+Rings" alt="Minimalist Zircon Ring">
+                <h3>Minimalist Zircon Ring</h3>
+                <p>925 Silver finish with AAA grade shimmer stones.</p>
+                <span class="price">$25.00</span>
+                <a href="https://wa.me/1234567890?text=I'm interested in the Zircon Ring" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+            </div>
+
+            <div class="card">
+                <img src="https://via.placeholder.com/300x400?text=Pearl+Earrings" alt="Classic Pearl Drops">
+                <h3>Classic Pearl Drops</h3>
+                <p>Timeless freshwater pearl style for everyday elegance.</p>
+                <span class="price">$18.00</span>
+                <a href="https://wa.me/1234567890?text=I'm interested in the Pearl Drops" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">© 2026 Jewels Artificial Jewelry | Handcrafted with Love</div>
+
+</body>
+</html>
