@@ -39,27 +39,27 @@
         
         <div class="grid">
             <div class="card">
-                <img src="https://via.placeholder.com/300x400?text=Necklace+Set" alt="Royal Kundan Set">
+                <img src="https://via."necklace.png"/300x400?text=Necklace+Set" alt="Royal Kundan Set">
                 <h3>Royal Kundan Set</h3>
                 <p>Intricate gold-plated necklace with matching earrings.</p>
                 <span class="price">$49.00</span>
-                <a href="https://wa.me/1234567890?text=I'm interested in the Royal Kundan Set" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+                <a href="https://wa.me/7088643550?text=I'm interested in the Royal Kundan Set" class="whatsapp-btn">ORDER ON WHATSAPP</a>
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/300x400?text=Zircon+Rings" alt="Minimalist Zircon Ring">
+                <img src="https://via."jewellery.png"/300x400?text=Zircon+Rings" alt="Minimalist Zircon Ring">
                 <h3>Minimalist Zircon Ring</h3>
                 <p>925 Silver finish with AAA grade shimmer stones.</p>
                 <span class="price">$25.00</span>
-                <a href="https://wa.me/1234567890?text=I'm interested in the Zircon Ring" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+                <a href="https://wa.me/7088643550?text=I'm interested in the Zircon Ring" class="whatsapp-btn">ORDER ON WHATSAPP</a>
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/300x400?text=Pearl+Earrings" alt="Classic Pearl Drops">
+                <img src="https://via."jewellery.png"/300x400?text=Pearl+Earrings" alt="Classic Pearl Drops">
                 <h3>Classic Pearl Drops</h3>
                 <p>Timeless freshwater pearl style for everyday elegance.</p>
                 <span class="price">$18.00</span>
-                <a href="https://wa.me/1234567890?text=I'm interested in the Pearl Drops" class="whatsapp-btn">ORDER ON WHATSAPP</a>
+                <a href="https://wa.me/7088643550?text=I'm interested in the Pearl Drops" class="whatsapp-btn">ORDER ON WHATSAPP</a>
             </div>
         </div>
     </div>
